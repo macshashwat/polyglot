@@ -149,11 +149,6 @@ Contributions are welcome! If you'd like to improve Polyglot Code:
 
 ---
 
-## License
-
-This project is open source and available for personal and educational use.
-
----
 
 ## Acknowledgments
 
