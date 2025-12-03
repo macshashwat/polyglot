@@ -58,7 +58,7 @@ Follow these instructions to get a local copy of the project up and running.
 
 1.  **Clone the repository:**
     ```bash
-    git clone https://github.com/aman179102/polyglot-code.git
+    git clone https://github.com/macshashwat/polyglot-code.git
     ```
 
 2.  **Navigate to the project directory:**
