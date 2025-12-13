@@ -63,7 +63,7 @@ Follow these instructions to get a local copy of the project up and running.
 
 2.  **Navigate to the project directory:**
     ```bash
-    cd polyglot-code
+    cd polyglot
     ```
 
 3.  **Install the dependencies:**
